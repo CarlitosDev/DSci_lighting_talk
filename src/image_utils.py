@@ -18,7 +18,7 @@ import exifread
 import numpy as np
 import re
 import matplotlib
-matplotlib.use('tkagg')
+# matplotlib.use('tkagg')
 
 # CV2 is not working. No idea why?
 # img_path = '/Users/carlos.aguilar/Documents/temp carlos pics Mateo/101ND750/_DSC9677.JPG'
