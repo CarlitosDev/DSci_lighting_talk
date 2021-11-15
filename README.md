@@ -1,2 +1,3 @@
 # DSci_lighting_talk
-A picture is worth...a multitude of analyses
+
+This is the code for the Data Lightin talk "A picture is worth...a multitude of analyses"
